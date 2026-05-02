@@ -1,0 +1,89 @@
+body {
+    margin: 0 auto;
+    padding: 0 auto;
+    
+}
+
+h1 {
+    
+    font-size: 48px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+    font-family: 'Brush Script MT', Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 36px;
+}
+
+img {
+    border-radius: 12px;
+    width: 50%;
+}
+
+.title_container{
+    text-align: center;
+}
+
+.description_container{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 16px;
+    padding: 16px;
+    background-color: #faebd795;
+    font-size: large;
+    border-radius: 12px;
+}
+
+.ingredients{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 16px;
+    padding: 16px;
+    background-color: #faebd795;
+    text-align: left;
+    border-radius: 12px;
+
+}
+
+.steps{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 16px;
+    padding: 16px;
+    background-color: #faebd795;
+    text-align: left;
+    border-radius: 12px;
+}
+
+ul{
+    padding: auto;
+    margin: auto;
+    list-style-position: inside;
+    
+}
+
+ol{
+    padding: auto;
+    margin: auto;
+    list-style-position: inside;
+    
+}
+
+li{
+    margin: auto;
+    padding: 4px;
+}
+
+a{
+    text-decoration: none;
+    background-color: bisque;
+    padding: 8px;
+    margin: 4px;
+    text-align: left;
+    color: rgb(90, 90, 2);
+    border: 2px solid ;
+    border-radius: 4px;
+}
