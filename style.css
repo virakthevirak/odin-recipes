@@ -5,8 +5,9 @@ body {
 
 h1 {
     text-align: center;
-    font-size: 48px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 64px;
+    font-style: italic;
+    font-family: 'Brush Script MT', Georgia, 'Times New Roman', Times, serif;
 }
 
 h2 {
